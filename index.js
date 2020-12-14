@@ -37,6 +37,7 @@ function preload() {
 function setup() {
   const canvas = createCanvas(gameWH, gameWH);
   canvas.parent("game");
+  song.play();
 
 
   imageMode(CENTER, CENTER);
@@ -95,7 +96,7 @@ function draw() {
     drawSprites();
     playerControls();
     spikesDown();
-    song.play();
+
 
     textSize(20);
     text('score = ',  10, 20);
