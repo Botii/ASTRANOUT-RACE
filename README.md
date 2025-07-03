@@ -1,4 +1,4 @@
-# 🚀 Space Spike Catcher
+# 🚀 ASTRANOUT RACE
 
 Welcome to **Space Spike Catcher**, a fun browser game where you play as an astronaut dodging falling spikes! Catch as many as you can before the timer runs out!
 
@@ -61,29 +61,4 @@ Each time the game resets, a random **space fact** is displayed on the main menu
 - Spikes increase in speed as your score gets higher.
 - Your score resets each time the game is restarted.
 
----
-
-## ✅ TODO / Potential Improvements
-
-- Add mobile controls.
-- Introduce levels or multiplayer mode.
-- Add visual effects or more sounds.
-
----
-
-## 📷 Preview
-
-*(Include screenshots or a short gif of gameplay here)*
-
----
-
-## 🧑‍🚀 Author
-
-Created by [Your Name]
-
----
-
-## 📄 License
-
-MIT License. Feel free to use, modify, or build upon this project!
 
